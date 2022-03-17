@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "slider-example",
+    "slug": "slider-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "slider-example"
+}
